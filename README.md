@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeveloperHuseyinAvci](https://github.com/DeveloperHuseyinAvci)
 
-- 💬 Ask me about **HTML5,CSS3,JAVASCRIPT,BOOTSTRAP4,SCSS**
-
 - 📫 How to reach me **developerhuseyinavci@hotmail.com**
 
 - ⚡ Fun fact **I think I am funny :)**
