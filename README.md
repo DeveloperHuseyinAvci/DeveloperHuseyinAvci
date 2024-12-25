@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Insure Landing Page Master](https://github.com/DeveloperHuseyinAvci/insure-landing-page-master)
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeveloperHuseyinAvci](https://github.com/DeveloperHuseyinAvci)
