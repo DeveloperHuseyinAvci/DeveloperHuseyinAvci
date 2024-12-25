@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rememberandeath" target="blank"><img src="https://img.shields.io/twitter/follow/rememberandeath?logo=twitter&style=for-the-badge" alt="rememberandeath" /></a> </p>
 
-- 🔭 I’m currently working on [Insure Landing Page Master](https://github.com/DeveloperHuseyinAvci/insure-landing-page-master)
-
-- 👯 I’m looking to collaborate on [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
-
 - 👨‍💻 All of my projects are available at [https://github.com/DeveloperHuseyinAvci](https://github.com/DeveloperHuseyinAvci)
 
 - 📫 How to reach me **developerhuseyinavci@hotmail.com**
